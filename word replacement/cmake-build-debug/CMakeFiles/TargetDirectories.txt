@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/word replacement/cmake-build-debug/CMakeFiles/word_replacement.dir
+C:/Users/HP/CLionProjects/word replacement/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/word replacement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
