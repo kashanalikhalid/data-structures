@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HP/CLionProjects/Bakery/main.cpp
+pthread.h
+C:/Users/HP/CLionProjects/Bakery/pthread.h
+stdio.h
+C:/Users/HP/CLionProjects/Bakery/stdio.h
+unistd.h
+C:/Users/HP/CLionProjects/Bakery/unistd.h
+string.h
+C:/Users/HP/CLionProjects/Bakery/string.h
+
